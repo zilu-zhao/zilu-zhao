@@ -80,7 +80,6 @@ Building reliable systems that connect business workflows, data, and LLMs.
 
 在深圳参与跨境电商 Agent 自动化建设，关注 Agent 如何可靠地连接知识、商品、订单及运营流程。当前工作重点包括意图理解、任务编排、工具调用、上下文管理、业务写操作保护和失败恢复。
 
-> 公开主页仅描述技术方向，不展示公司内部流程、客户信息和业务数据。
 
 ### O2O Home Services Platform · Java Microservices
 
